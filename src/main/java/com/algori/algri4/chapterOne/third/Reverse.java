@@ -1,0 +1,30 @@
+package com.algori.algri4.chapterOne.third;
+
+import edu.princeton.cs.algs4.Stack;
+import edu.princeton.cs.algs4.StdIn;
+import edu.princeton.cs.algs4.StdOut;
+
+import java.util.Arrays;
+
+/**
+ *
+ * @author cln
+ * @version $Id: Reverse.java v 0.1 18-11-26 上午10:43 cln Exp $$
+ */
+public class Reverse {
+    public static void main(String[] args){
+        String str = "";
+        while (!StdIn.isEmpty()){
+            str = StdIn.readString();
+        }
+        Stack<Character> stack = new Stack<>();
+        char[] chars = str.toCharArray();
+        for (char c:chars){
+            stack.push(c);
+        }
+
+        for (char i:stack){
+            StdOut.print(i);
+        }
+    }
+}
