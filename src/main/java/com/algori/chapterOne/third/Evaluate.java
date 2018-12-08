@@ -3,8 +3,8 @@ package com.algori.chapterOne.third;
 import edu.princeton.cs.algs4.Stack;
 
 /**
- * @author cln
- * @version $Id: Evaluate.java v 0.1 18-12-8 上午10:10 cln Exp $$
+ * @author cl
+ * @version $Id: Evaluate.java v 0.1 18-12-8 上午10:10 cl Exp $$
  */
 public class Evaluate {
 

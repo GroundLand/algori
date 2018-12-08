@@ -7,8 +7,8 @@ import static org.junit.Assert.assertTrue;
 
 /**
  *
- * @author cln
- * @version $Id: Test1.java v 0.1 18-11-22 下午1:53 cln Exp $$
+ * @author cl
+ * @version $Id: Test1.java v 0.1 18-11-22 下午1:53 cl Exp $$
  */
 public class Test1 {
 

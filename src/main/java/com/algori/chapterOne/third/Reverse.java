@@ -8,8 +8,8 @@ import java.util.Arrays;
 
 /**
  *
- * @author cln
- * @version $Id: Reverse.java v 0.1 18-11-26 上午10:43 cln Exp $$
+ * @author cl
+ * @version $Id: Reverse.java v 0.1 18-11-26 上午10:43 cl Exp $$
  */
 public class Reverse {
     public static void main(String[] args){

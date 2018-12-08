@@ -2,8 +2,8 @@ package com.algori.chapterOne.first;
 
 /**
  *
- * @author cln
- * @version $Id: BinarySearch.java v 0.1 18-11-23 下午9:11 cln Exp $$
+ * @author cl
+ * @version $Id: BinarySearch.java v 0.1 18-11-23 下午9:11 cl Exp $$
  */
 public class BinarySearch {
     public static int rank(int key, int[] a) {

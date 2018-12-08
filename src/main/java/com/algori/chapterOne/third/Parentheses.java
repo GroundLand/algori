@@ -3,8 +3,8 @@ package com.algori.chapterOne.third;
 import edu.princeton.cs.algs4.Stack;
 
 /**
- * @author cln 对应题目 1.3.4
- * @version $Id: Parentheses.java v 0.1 18-12-8 下午12:52 cln Exp $$
+ * @author cl 对应题目 1.3.4
+ * @version $Id: Parentheses.java v 0.1 18-12-8 下午12:52 cl Exp $$
  */
 public class Parentheses {
 

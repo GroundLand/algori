@@ -2,8 +2,8 @@ package com.algori;
 
 /**
  *
- * @author cln
- * @version $Id: Kata.java v 0.1 18-11-22 上午10:03 cln Exp $$
+ * @author cl
+ * @version $Id: Kata.java v 0.1 18-11-22 上午10:03 cl Exp $$
  */
 public class Kata {
     public static void main(String args[]){

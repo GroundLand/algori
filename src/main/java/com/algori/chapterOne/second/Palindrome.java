@@ -2,8 +2,8 @@ package com.algori.chapterOne.second;
 
 /**
  * 回文
- * @author cln
- * @version $Id: Palindrome.java v 0.1 18-11-24 上午9:48 cln Exp $$
+ * @author cl
+ * @version $Id: Palindrome.java v 0.1 18-11-24 上午9:48 cl Exp $$
  */
 public class Palindrome {
     public static boolean isPalindrome(String str) {

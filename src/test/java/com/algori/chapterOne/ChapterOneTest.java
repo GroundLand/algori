@@ -11,8 +11,8 @@ import static org.junit.Assert.assertTrue;
 
 /**
  *
- * @author cln
- * @version $Id: ChapterOneTest.java v 0.1 18-11-23 下午9:22 cln Exp $$
+ * @author cl
+ * @version $Id: ChapterOneTest.java v 0.1 18-11-23 下午9:22 cl Exp $$
  */
 public class ChapterOneTest {
 
