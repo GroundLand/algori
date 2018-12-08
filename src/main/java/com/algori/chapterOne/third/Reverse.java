@@ -1,4 +1,4 @@
-package com.algori.algri4.chapterOne.third;
+package com.algori.chapterOne.third;
 
 import edu.princeton.cs.algs4.Stack;
 import edu.princeton.cs.algs4.StdIn;

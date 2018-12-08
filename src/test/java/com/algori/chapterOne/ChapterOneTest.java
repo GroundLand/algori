@@ -1,7 +1,8 @@
-package com.algori.algri4.chapterOne;
+package com.algori.chapterOne;
 
-import com.algori.algri4.chapterOne.first.BinarySearch;
-import com.algori.algri4.chapterOne.second.Palindrome;
+import com.algori.chapterOne.first.BinarySearch;
+import com.algori.chapterOne.second.Palindrome;
+import org.junit.Assert;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
@@ -18,7 +19,7 @@ public class ChapterOneTest {
     @Test
     public void test1(){
        int  a[] = {1,2,3,4,5,6};
-       assertEquals(4, BinarySearch.rank(5,a));
+       Assert.assertEquals(4, BinarySearch.rank(5,a));
     }
 
     @Test

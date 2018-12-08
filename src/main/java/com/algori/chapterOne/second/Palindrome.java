@@ -1,4 +1,4 @@
-package com.algori.algri4.chapterOne.second;
+package com.algori.chapterOne.second;
 
 /**
  * 回文

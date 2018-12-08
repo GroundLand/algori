@@ -1,4 +1,4 @@
-package com.algori.algri4.chapterOne.first;
+package com.algori.chapterOne.first;
 
 /**
  *
