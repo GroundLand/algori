@@ -1,6 +1,10 @@
 package com.algori;
 
+import edu.princeton.cs.algs4.Shell;
+import edu.princeton.cs.algs4.StdOut;
 import org.junit.Test;
+
+import java.util.Arrays;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
@@ -20,5 +24,12 @@ public class Test1 {
     @Test
     public void SingleTest(){
         assertTrue(true||true&&false);
+    }
+
+    @Test
+    public void sellTest() {
+        Integer a[] = {12, 21, 3, 4, 5, 6, 7, 8, 9, 10, 12, 1};
+        Shell.sort(a);
+        StdOut.println(Arrays.toString(a));
     }
 }
